@@ -24,18 +24,18 @@ Este projeto visa apoiar a **personalização do ensino** na Bernoulli Educaçã
    - **Cluster 1 (Alto Desempenho)**: Oferecer desafios avançados (ex.: olimpíadas).  
    - **Cluster 3 (Baixo Desempenho)**: Tutoria individualizada.  
 
-## 1.2. Aplicação na Bernoulli  
+- ## 2. Aplicação na Bernoulli  
 - **Personalização no Sistema de Ensino**:  
   Integrar a segmentação por clusters à plataforma para recomendar conteúdos adaptativos.  
 - **Alertas de Evasão**:  
   Usar modelos preditivos para identificar alunos em risco com antecedência.
 
-  ## 2.1. Limitações  
+- ## 3. Limitações  
 - Dados limitados a três disciplinas: Expandir análise para outras métricas (ex.: participação em aulas).  
 
-## 2.2. Próximos Passos  
+- ## 4. Próximos Passos  
 1. Coletar dados em tempo real via **plataforma Bernoulli** para atualizar modelos.  
 2. Desenvolver um **dashboard de acompanhamento pedagógico** para gestores.  
 
-**Repositório do Projeto**: (https://github.com/gustavogit4/An-lise-de-Desempenho-de-Alunos)
+**Repositório do Projeto**: [GitHub](https://github.com/gustavogit4/An-lise-de-Desempenho-de-Alunos)
 
