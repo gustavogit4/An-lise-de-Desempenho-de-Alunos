@@ -37,4 +37,4 @@ Este projeto visa apoiar a **personalização do ensino** na Bernoulli Educaçã
 1. Coletar dados em tempo real via **plataforma Bernoulli** para atualizar modelos.  
 2. Desenvolver um **dashboard de acompanhamento pedagógico** para gestores.  
 
-**Repositório do Projeto**: [GitHub](https://github.com/gustavogit4/analise-educacional) 
+**Repositório do Projeto**: [GitHub]([https://github.com/gustavogit4/analise-educacional](https://github.com/gustavogit4/An-lise-de-Desempenho-de-Alunos)
