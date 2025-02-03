@@ -3,7 +3,7 @@
 **Última Atualização**: 03/02/2025  
 
 ## Contexto  
-Este projeto visa apoiar a **personalização do ensino** na Bernoulli Educação, identificando:  
+Este projeto visa apoiar a **personalização do ensino** no Bernoulli Educação, identificando:  
 - Fatores que influenciam o desempenho em matemática, leitura e escrita.  
 - Impacto de intervenções como cursos preparatórios.  
 - Oportunidades para segmentação de alunos por nível de desempenho.  
