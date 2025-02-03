@@ -24,7 +24,7 @@ Este projeto visa apoiar a **personalização do ensino** no Bernoulli Educaçã
    - **Cluster 1 (Alto Desempenho)**: Oferecer desafios avançados (ex.: olimpíadas).  
    - **Cluster 3 (Baixo Desempenho)**: Tutoria individualizada.  
 
-- ## 2. Aplicação na Bernoulli  
+- ## 2. Aplicação no Bernoulli  
 - **Personalização no Sistema de Ensino**:  
   Integrar a segmentação por clusters à plataforma para recomendar conteúdos adaptativos.  
 - **Alertas de Evasão**:  
