@@ -1,6 +1,6 @@
 # Análise de Desempenho de Alunos  
 **Autor**: Gustavo de Paula Silva  
-**Última Atualização**: [Data]  
+**Última Atualização**: 03/02/2025  
 
 ## Contexto  
 Este projeto visa apoiar a **personalização do ensino** na Bernoulli Educação, identificando:  
