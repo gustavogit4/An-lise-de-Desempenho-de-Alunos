@@ -2,7 +2,10 @@
 **Autor**: Gustavo de Paula Silva  
 **Última Atualização**: 03/02/2025  
 
-## Contexto  
+## Contexto
+
+**Processo seletivo para Analista de Dados do Grupo Bernoulli Educação**
+
 Este projeto visa apoiar a **personalização do ensino** no Bernoulli Educação, identificando:  
 - Fatores que influenciam o desempenho em matemática, leitura e escrita.  
 - Impacto de intervenções como cursos preparatórios.  
