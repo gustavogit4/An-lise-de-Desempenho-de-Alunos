@@ -1,6 +1,6 @@
 # Análise de Desempenho de Alunos  
 **Autor**: Gustavo de Paula Silva  
-**Última Atualização**: 12/02/2025  
+**Última Atualização**: 13/02/2025  
 
 ## Contexto
 
